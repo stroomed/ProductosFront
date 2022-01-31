@@ -1,5 +1,9 @@
 # ProductosFront
 
+Proyecto realizado por Ricardo Gutiérrez, como práctica en el aprendizaje de Angular 8. Es la contraparte de frontEnd para el proyecto "ProductosBack".
+
+## General
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
 
 ## Development server
